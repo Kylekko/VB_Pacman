@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\projects\projects\bin\Debug\projects.exe.config
+C:\Users\user\Desktop\projects\projects\bin\Debug\projects.exe
+C:\Users\user\Desktop\projects\projects\bin\Debug\projects.pdb
+C:\Users\user\Desktop\projects\projects\bin\Debug\projects.xml
+C:\Users\user\Desktop\projects\projects\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\projects\projects\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\projects\projects\obj\Debug\projects_pacman.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\projects\projects\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\projects\projects\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\projects\projects\obj\Debug\projects_pacman.vbproj.ResolveComReference.cache
+C:\Users\user\Desktop\projects\projects\obj\Debug\projects.pacman_a.resources
+C:\Users\user\Desktop\projects\projects\obj\Debug\projects.Resources.resources
+C:\Users\user\Desktop\projects\projects\obj\Debug\projects_pacman.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\projects\projects\obj\Debug\projects.exe
+C:\Users\user\Desktop\projects\projects\obj\Debug\projects.xml
+C:\Users\user\Desktop\projects\projects\obj\Debug\projects.pdb
